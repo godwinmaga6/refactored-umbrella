@@ -2,3 +2,6 @@ Instructions for deploying this site server
 ------------------------------------
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste error eos vel ut sint consectetur consequatur explicabo, similique atque sequi nulla labore maxime aliquam numquam! Error laudantium tempora ducimus doloribus!
+
+Troubleshooting
+---------------
